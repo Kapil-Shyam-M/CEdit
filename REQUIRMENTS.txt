@@ -1,0 +1,22 @@
+#########################################################################
+#  Project           		:   CEDIT-A PYTHON BASED TEXT EDITOR
+#  Name of the file	     	:   REQUIRMENTS.rst
+#  Brief Description of file   :   Requirments for CEdit
+#  Name                        :   KAPIL SHYAM.M
+#  Email ID                    :   cedit.ceo@gmail.com
+#                                                                       #
+#                                                                       #
+#########################################################################
+
+REQUIRMENTS:
+---
+
+This program runs on Unix/Linux Systems and Windows.
+
+This Program has been Tested in Ubuntu 20.04 LTS..
+
+The Following Python Packages are required:-
+
+-Python 3.8
+-pip3
+-Any IDE ("For Windows")
